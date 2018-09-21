@@ -1,0 +1,48 @@
+{
+    "particles": {
+        "number": {
+            "value": 90
+        },
+        "size": {
+            "value": 2
+        },
+        "line_linked": {
+            "width": 1,
+            "distance":120,
+            "color":"#000000"
+        },
+        "move":{
+            "speed":4
+            
+
+        },
+        "color":{
+        "value":"#000000"}
+    },
+    "interactivity": {
+        "events": {
+
+            "onclick": {
+                "enable": true,
+                "mode": "push"
+       
+            },
+            "onhover":{
+                "enable":true,
+                "mode":"grab"
+            }
+
+        },
+            "modes":{
+                "push":{
+                    "particles_nb": 20
+                },
+                "grab":{
+                    "distance":210
+                }
+
+            }
+        
+        }
+
+}   
