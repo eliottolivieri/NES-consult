@@ -1,5 +1,5 @@
 #particles-js{
-    background:rgb(41, 54, 228);
+    background:rgb(26, 79, 255);
     height: 100%;
 
 }
@@ -10,7 +10,7 @@
     font-family: 'Rubik', sans-serif;
     font-size: 60px;
     width: auto;
-    position: relative;
+    position: fixed;
     margin-left: 10px;
    
 }
