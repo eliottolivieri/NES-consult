@@ -6,8 +6,8 @@ function donuts(){
     var myNow = new Date();
     var diffz = myNow - myFirst;
     var transactionCount = diffz * 3;
-    transactionCount.toLocaleString();
+    var delimitedCount = transactionCount.toLocaleString();
 
 
-$("#countEm").text(transactionCount);
+$("#countEm").text(delimitedCount);
 }
