@@ -1,6 +1,6 @@
 #particles-js{
     background:rgb(25, 79, 255);
-    height: 100%;
+    height: 35%;
 
 }
 
@@ -8,7 +8,7 @@
 
 #countEm{
     font-family: 'Rubik', sans-serif;
-    font-size: 15px;
+    font-size: 25px;
     width: auto;
     position: relative;
     margin-left: 10px;
