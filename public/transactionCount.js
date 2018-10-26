@@ -5,5 +5,5 @@ var refreshTime = setInterval(
         var myCurrentTime = new Date.now(); 
         var diffz = (myCurrentTime - myFirstTime);
 
-        $("#countEm").innerHTML= diffz;
-    },10);
+        $("#countEm").innerHTML("aaapppppllleess");
+    },100);
