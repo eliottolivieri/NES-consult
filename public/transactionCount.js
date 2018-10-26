@@ -1,9 +1,9 @@
 
-var refreshTime = setInterval(transCount,10)
+var refreshTime = setInterval(transCount,10);
     function transCount() {
-        var myFistTime = new Date(1998,5,10);
+        var myFirstTime = new Date(1998,5,10);
         var myCurrentTime = new Date.now(); 
-        var diffz = (myCurrentTime - myFistTime);
+        var diffz = (myCurrentTime - myFirstTime);
 
         $("#countEm").innerHTML(diffz);
 }
