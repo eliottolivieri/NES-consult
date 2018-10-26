@@ -1,9 +1,11 @@
-#particles-js{
-    background:rgb(25, 79, 255);
-    height: 35%;
 
+@media screen and (max-height: 1000px){
+    #particles-js{
+        background:rgb(25, 79, 255);
+        height: 35%;
+
+    }
 }
-
 
 
 #countEm{
