@@ -5,5 +5,5 @@ setInterval(
        // var myCurrentTime = new Date.now(); 
        // var diffz = (myCurrentTime - myFirstTime);
 
-        $("#countEm").innerHTML("aaapppppllleess");
+        document.getElementById("countEm").text("aaapppppllleess");
     },100);
