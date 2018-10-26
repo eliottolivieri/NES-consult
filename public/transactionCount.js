@@ -1,1 +1,0 @@
-document.getElementById("countEm").text("apple");
