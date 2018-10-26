@@ -8,8 +8,10 @@
 
 #countEm{
     font-family: 'Rubik', sans-serif;
-    font-size: 90px;
-  
+    font-size: 60px;
+    width: auto;
+    position: relative;
+    margin-left: 1%;
    
 }
 
