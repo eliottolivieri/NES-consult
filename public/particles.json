@@ -12,7 +12,7 @@
             "color":"#8D8DC4"
         },
         "move":{
-            "speed":2
+            "speed":1
             
 
         },
@@ -35,10 +35,10 @@
         },
             "modes":{
                 "push":{
-                    "particles_nb": 8
+                    "particles_nb": 4
                 },
                 "grab":{
-                    "distance":160
+                    "distance":230
                 }
 
             }
