@@ -9,7 +9,7 @@
         "line_linked": {
             "width": 1,
             "distance":120,
-            "color":"#E8E8E8"
+            "color":"#D0D0D0"
         },
         "move":{
             "speed":3
@@ -17,7 +17,7 @@
 
         },
         "color":{
-        "value":"#E8E8E8"}
+        "value":"#D0D0D0"}
     },
     "interactivity": {
         "events": {
