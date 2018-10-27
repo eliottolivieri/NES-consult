@@ -1,8 +1,8 @@
 
-@media screen and (max-height: 1000px){
+@media screen and (max-height: 700px){
     #particles-js{
         background:rgb(25, 79, 255);
-        height: 35%;
+        height: 20%;
 
     }
 }
