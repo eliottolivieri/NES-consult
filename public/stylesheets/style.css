@@ -24,7 +24,7 @@
 }
 
 
-#customHover :hover{
+#customHov :hover #customHover, #customHoverSm{
    
    color:rgb(127, 143, 195);
 
@@ -38,7 +38,6 @@
 
 #customHoverSm{
     font-family: 'Kadwa', serif;
-
     color:white;
 }
 
