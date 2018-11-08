@@ -8,12 +8,12 @@
 }
 
 #countEm{
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Kadwa', serif;
+    color:white;
     font-size: 25px;
-    width: auto;
-    position: relative;
-    margin-left: 10px;
-   
+    position:fixed;
+    margin-left:0px;
+    
 }
 
 #countEm2{
