@@ -24,10 +24,15 @@
 }
 
 
-hover #customHover{
+#customHov:hover #customHover{
    
    color:blue;
 
+}
+
+.h1{
+    font-family: 'Monoton', cursive;
+    color:white;
 }
 
 
