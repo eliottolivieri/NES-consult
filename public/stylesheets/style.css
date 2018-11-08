@@ -24,7 +24,7 @@
 }
 
 
-hover #customHover {
+#customHover :hover{
    
    color:blue;
 
